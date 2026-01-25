@@ -1,0 +1,8 @@
+# Ignore node_modules folder (dependencies installed via npm).
+node_modules/
+
+# Ignore sensitive config if you accidentally fill it (but better to not commit real values).
+# config.js  # Uncomment if you want to ignore config.js, but for this template, it's included as a blank.
+
+# Logs and other temp files.
+*.log
