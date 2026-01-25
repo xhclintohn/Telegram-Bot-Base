@@ -1,6 +1,4 @@
-# README.md
-
-```markdown
+markdown
 <div align="center">
 
 # 🚀 Telegram Bot Base Template
