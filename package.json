@@ -1,0 +1,14 @@
+{
+  "name": "telegram-bot-base",
+  "version": "1.0.0",
+  "description": "A simple open-source Telegram bot template",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.15.3"
+  },
+  "author": "xhclinton",
+  "license": "MIT"
+}
