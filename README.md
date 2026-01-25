@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 🚀 Telegram Bot Base Template
@@ -29,6 +28,7 @@ A simple, open-source, and **fully customizable** Telegram bot template using No
 - [❓ Troubleshooting](#troubleshooting)
 - [📝 License](#license)
 - [🤝 Contributing](#contributing)
+- [📞 Need Help?](#need-help)
 
 ---
 
@@ -48,7 +48,7 @@ A simple, open-source, and **fully customizable** Telegram bot template using No
 
 Before diving in, make sure you have:
 
-1. **Node.js** (version 14 or higher) installed. Download from [nodejs.org](https://nodejs.org/).
+1. **Node.js** (version 14 or higher) installed. Download from [Node.js](https://nodejs.org/) website.
 2. A **Telegram Bot Token**: Create your bot by chatting with [BotFather](https://t.me/botfather) on Telegram.
 3. Your **Telegram User ID** (for admin access): Get it from [@userinfobot](https://t.me/userinfobot).
 
@@ -220,9 +220,9 @@ Running into issues? Let's fix it:
 - **Bot not responding**: Ensure it's running (`node bot.js`) and check console for errors. Verify token with BotFather.
 - **Admin command not working**: Confirm your user ID is correct (use @userinfobot).
 - **Deployment errors**: For Heroku/others, use env vars instead of config.js.
-- **Node.js version issue**: Update to latest LTS via [nodejs.org](https://nodejs.org/).
+- **Node.js version issue**: Update to latest LTS via [Node.js](https://nodejs.org/) website.
 
-If stuck, open an issue on GitHub or check [Telegraf Documentation](https://telegraf.js.org/).
+If stuck, open an issue on GitHub or check [Telegraf Documentation](https://telegraf.js.org/). Or reach out via the contact section below!
 
 ---
 
@@ -242,9 +242,27 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Contributions welcome! Let's make this template even better. ⭐
 
+---
+
+## 📞 Need Help?
+
+Stuck on setup? Need customization advice? I'm here to help! 🚀
+
 <div align="center">
 
-**Built with ❤️ using Telegraf | Questions? Message me on Telegram!**
+| **Contact Method** | **Details** | **Message Me** |
+|--------------------|-------------|----------------|
+| 📱 **WhatsApp** | +254 735 342 808 | [![WhatsApp Button](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254735342808) |
+| 💬 **Telegram** | @xhclintonxdd | [![Telegram Button](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xhclintonxdd) |
 
 </div>
-```
+
+<div align="center">
+<p>📧 Feel free to reach out for bot development support, troubleshooting, or feature ideas!</p>
+</div>
+
+<div align="center">
+
+**Built with ❤️ using Telegraf | Questions? Message me on WhatsApp or Telegram!** 🌟
+
+</div>
