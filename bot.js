@@ -1,5 +1,5 @@
 // bot.js - Main file for the Telegram bot.
-// This uses Telegraf library for simplicity.
+// This uses Telegraf library for simplicity.✅
 // Run with: node bot.js
 
 const { Telegraf } = require('telegraf');
